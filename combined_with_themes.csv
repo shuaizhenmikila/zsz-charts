@@ -1,0 +1,7 @@
+summary,cleaned_text,sentiment_polarity,sentiment_subjectivity,sentiment_label,platform,transcript,Theme
+Pay fair but warehouse labor is exhausting,pay fair warehouse labor exhausting,0.14999999999999997,0.7,positive,Glassdoor,,Other
+Managers micromanage all daily tasks,managers micromanage daily tasks,0.0,0.0,neutral,Glassdoor,,Micromanagement & Manager Conflicts
+Great holiday benefits and flexible leave,great holiday benefits flexible leave,0.8,0.75,positive,Glassdoor,,Other
+,12hour shifts drain physical energy every day,0.0,0.14285714285714285,neutral,YouTube,12-hour shifts drain my physical energy every day,Shift & Burnout Issues
+,clear permanent fulltime hiring paths,0.09999999999999999,0.3833333333333333,neutral,YouTube,No clear permanent full-time hiring paths,Onboarding & Training Gaps
+,overtime wage advantage job,0.0,0.0,neutral,YouTube,Overtime wage is the only advantage of this job,Other
